@@ -1,22 +1,21 @@
 {
-  "store_id": 1058,
-  "name": "Blue Kids",
-  "domain": "bluekids.netlify.com",
-  "short_name": "BlueKids",
-  "description": "Blue Kids Loja",
-  "primary_color": "#383d44",
-  "secondary_color": "#7F7F7F",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#598ad4",
   "theme": {
     "bootswatch": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Camisaria Blue Kids",
+  "short_name": "BlueKids",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "/img/uploads/faviconlogo.png",
+  "favicon": "/img/uploads/faviconlogo.png",
+  "country_code": "BR",
+  "secondary_color": "#c6dec6",
+  "icon": "/img/uploads/faviconlogo.png",
+  "store_id": 1058,
+  "description": " A loja de roupa infantil Blue Kids surgiu no ano de 2017 com a finalidade de comercializar produtos de qualidade e se destacar com excelência de atendimento ao cliente. Nossos valores são: 1) Respeito ao cliente; 2) ,Cumprimento de prazos estabelecidos,; 3) Segurança nas transações online, \n E se durante a compra você tiver qualquer problema, devolveremos seu dinheiro. ESSA É A NOSSA GARANTIA!\n",
+  "large_icon": "/img/uploads/logobluekidsminimum.jpg"
 }
