@@ -3,7 +3,7 @@ name: Build and deploy
 on:
   push:
     branches:
-      - template
+      - master
 
 jobs:
   build-and-deploy:
@@ -41,5 +41,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BRANCH: gh-pages
+          BRANCH: dist
           FOLDER: dist
