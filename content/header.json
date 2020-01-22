@@ -6,12 +6,12 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
         "title": "Blog Bkue Kids",
         "link": "/nossa-historia-2020-01-22"
+      },
+      {
+        "title": "Sobre nós",
+        "link": "/pages/sobre-nos"
       }
     ],
     "phone_wpp": true,
