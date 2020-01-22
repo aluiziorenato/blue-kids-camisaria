@@ -10,14 +10,14 @@
   },
   "links_2": {
     "list_categories": true,
-    "title": "Categories",
+    "title": "Categorias",
     "list": []
   },
   "contacts": {
-    "title": "Contacts",
+    "title": "Contatos",
     "phone_wpp": true,
     "email": true,
-    "socials": true
+    "socials": false
   },
   "stamps": [
     {
