@@ -5,10 +5,12 @@
     "autoplay": 9000,
     "slides": [
       {
-        "img": "/img/uploads/banner-bluekids-temp.jpg"
+        "img": "/img/uploads/banner-bluekids-temp.jpg",
+        "alt": "banner arrasar"
       },
       {
-        "img": "/img/uploads/banner-lojaintegrada.jpg"
+        "img": "/img/uploads/banner-lojaintegrada.jpg",
+        "link": "banner bebê brincando"
       }
     ]
   },
