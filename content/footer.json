@@ -5,7 +5,7 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Pages",
+    "title": "Páginas",
     "list": []
   },
   "links_2": {
@@ -16,9 +16,8 @@
   "contacts": {
     "title": "Contacts",
     "phone_wpp": true,
-    "socials": true,
     "email": true,
-    "address": true
+    "socials": true
   },
   "stamps": [
     {
