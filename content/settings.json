@@ -1,6 +1,6 @@
 {
   "currency_symbol": "R$",
-  "primary_color": "#598ad4",
+  "primary_color": "#277bfa",
   "theme": {
     "bootswatch": "litera"
   },
@@ -13,7 +13,7 @@
   "mini_logo": "/img/uploads/faviconlogo.png",
   "favicon": "/img/uploads/faviconlogo.png",
   "country_code": "BR",
-  "secondary_color": "#ffbb3d",
+  "secondary_color": "#ffb52c",
   "icon": "/img/uploads/faviconlogo.png",
   "store_id": 1058,
   "description": "Especializada em Roupas de Festa para Bebês Meninos",
