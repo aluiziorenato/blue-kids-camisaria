@@ -3,3 +3,6 @@
 .ec-variations__option {
   border: 2px solid #343a40 !important
 }
+.ec-variations__option--selected:not(:disabled) {
+  border-color: var(--secondary) !important;
+}
