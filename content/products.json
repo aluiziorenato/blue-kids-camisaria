@@ -2,11 +2,11 @@
   "pitbar": true,
   "recommended": {
     "showcase": true,
-    "title": "Quem comprou este produto, também comprou:"
+    "title": "Quem viu este produto, também comprou:"
   },
   "related": {
     "showcase": true,
-    "title": "Produtos relacionados"
+    "title": "PRODUTOS SIMILARES"
   },
   "additional_content": "Os melhores **_conjuntos infantis_**, feitos com os melhores tecidos e excelência de acabamento."
 }
