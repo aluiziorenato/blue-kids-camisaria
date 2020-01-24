@@ -16,6 +16,10 @@
  * Released under the MIT License.
  */
 
+/*! lozad.js - v1.14.0 - 2019-10-19
+* https://github.com/ApoorvSaxena/lozad.js
+* Copyright (c) 2019 Apoorv Saxena; Licensed MIT */
+
 /*!
  * @ecomplus/shopping-cart
  * (c) E-Com Club <ti@e-com.club>
@@ -54,10 +58,6 @@
  * <script src="https://cdn.jsdelivr.net/npm/@ecomplus/shopping-cart/dist/ecom-cart.bundle.min.js"></script>
  */
 
-/*! lozad.js - v1.14.0 - 2019-10-19
-* https://github.com/ApoorvSaxena/lozad.js
-* Copyright (c) 2019 Apoorv Saxena; Licensed MIT */
-
 /*! 
   * portal-vue © Thorsten Lünborg, 2019 
   * 
@@ -95,6 +95,12 @@
  */
 
 /*!
+ * @ecomplus/search-engine
+ * (c) E-Com Club <ti@e-com.club>
+ * Released under the MIT License.
+ */
+
+/*!
  * @ecomplus/passport-client
  * (c) E-Com Club <ti@e-com.club>
  * Released under the MIT License.
@@ -107,7 +113,7 @@
  */
 
 /*!
- * @ecomplus/search-engine
+ * @ecomplus/widget-product-card
  * (c) E-Com Club <ti@e-com.club>
  * Released under the MIT License.
  */
