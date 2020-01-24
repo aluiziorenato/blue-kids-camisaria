@@ -19,16 +19,40 @@ jobs:
           node-version: '10.x'
 
       - name: Update package dependencies
-        run: npm update --production
+        run: npm update
 
-      - name: Commit files if changed
+      - name: Config Git user
         run: |
           git config --local user.email 'action@github.com'
           git config --local user.name 'GitHub Action'
-          git add package.json package-lock.json
-          git diff-index --quiet HEAD || git commit -m 'chore(deps): update pkg dependencies'
+
+      - name: Check if template was updated
+        run: |
+          git diff package-lock.json | grep 'ecomplus/storefront-template' \
+            && echo "::set-output name=updated::1" \
+            || echo "::set-output name=updated::0"
+        id: check_template
+
+      - name: Run build with new template
+        if: steps.check_template.outputs.updated == '1'
+        run: npm run build
+
+      - name: Deploy to branch dist
+        if: steps.check_template.outputs.updated == '1'
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: dist
+          FOLDER: dist
+
+      - name: Commit files if changed
+        if: always()
+        run: |
+          git add package-lock.json content
+          git diff-index --quiet HEAD || git commit -m '[skip ci] chore(deps): update pkg dependencies'
 
       - name: Push changes
+        if: always()
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
