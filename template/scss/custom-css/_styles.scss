@@ -7,3 +7,10 @@
 .ec-variations__option--selected:not(:disabled) {
   border-color: var(--secondary) !important;
 }
+
+// Responsivo
+@media (max-width: 767px) {
+  #product-block .ec-product__buy > button.btn-lg {
+    width: 100%
+  }
+}
