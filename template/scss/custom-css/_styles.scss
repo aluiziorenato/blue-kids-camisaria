@@ -18,3 +18,11 @@
 body {
 font-family: 'Open Sans', sans-serif;
 }
+// central
+.ec-search__popover strong, .ec-search__popover span, .ec-search__popover  {
+  text-align: center;
+  font-weight: 300;
+}
+.products-carousel h3, .products-carousel strong, .products-carousel .ec-product-card__prices, .product-card h3, .product-card .ec-product-card__prices{
+  text-align: center;
+}
