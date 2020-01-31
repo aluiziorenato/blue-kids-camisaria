@@ -5,12 +5,13 @@
     "autoplay": 4500,
     "slides": [
       {
-        "img": "/img/uploads/banner-bluekids-temp.jpg",
-        "alt": "banner arrasar"
+        "img": "/img/uploads/tema-baloes-2-.jpg",
+        "alt": "roupa social infantil"
       },
       {
-        "img": "/img/uploads/banner-lojaintegrada.jpg",
-        "link": "banner bebê brincando"
+        "img": "/img/uploads/tema-baloes.jpg",
+        "link": "",
+        "alt": "roupa infantil balões"
       }
     ]
   },
