@@ -8,9 +8,13 @@
   border-color: var(--secondary) !important;
 }
 
-// Responsivo
+// Responsive
 @media (max-width: 767px) {
   #product-block .ec-product__buy > button.btn-lg {
     width: 100%
   }
+}
+// font
+body {
+font-family: 'Open Sans', sans-serif;
 }
