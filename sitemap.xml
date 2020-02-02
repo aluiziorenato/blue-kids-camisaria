@@ -662,12 +662,6 @@
     </url>
   
     <url>
-      <loc>https://bluekids.netlify.com/blue-kids</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://bluekids.netlify.com/estampas-digital</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -723,6 +717,12 @@
   
     <url>
       <loc>https://bluekids.netlify.com/colecao-ursinhos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.netlify.com/blue-kids</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
