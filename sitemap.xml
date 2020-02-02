@@ -2,67 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://bluekids.netlify.com/conjunto-com-bermuda</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.netlify.com/batinhas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.netlify.com/smash-the-cake</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.netlify.com/conjuntos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.netlify.com/conjunto-camisa-polo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.netlify.com/body</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.netlify.com/conjunto-com-calca</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.netlify.com/bermuda-social</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.netlify.com/camisa-social</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.netlify.com/camisa-social-manga-curta</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.netlify.com/camisa-social-manga-longa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://bluekids.netlify.com/blue-kids</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.netlify.com/estampas-digital</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.netlify.com/nossas-novidades</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.netlify.com/mais-vendidos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.netlify.com/colecao-bermudas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.netlify.com/colecao-fundo-do-mar</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.netlify.com/colecao-safari</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.netlify.com/colecao-baloes-e-aventura</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.netlify.com/colecao-circo-magico</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.netlify.com/colecao-batinha-menino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.netlify.com/colecao-ursinhos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -662,67 +668,61 @@
     </url>
   
     <url>
-      <loc>https://bluekids.netlify.com/conjunto-com-bermuda</loc>
+      <loc>https://bluekids.netlify.com/estampas-digital</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://bluekids.netlify.com/batinhas</loc>
+      <loc>https://bluekids.netlify.com/nossas-novidades</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://bluekids.netlify.com/smash-the-cake</loc>
+      <loc>https://bluekids.netlify.com/mais-vendidos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://bluekids.netlify.com/conjuntos</loc>
+      <loc>https://bluekids.netlify.com/colecao-bermudas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://bluekids.netlify.com/conjunto-camisa-polo</loc>
+      <loc>https://bluekids.netlify.com/colecao-fundo-do-mar</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://bluekids.netlify.com/body</loc>
+      <loc>https://bluekids.netlify.com/colecao-safari</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://bluekids.netlify.com/conjunto-com-calca</loc>
+      <loc>https://bluekids.netlify.com/colecao-baloes-e-aventura</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://bluekids.netlify.com/bermuda-social</loc>
+      <loc>https://bluekids.netlify.com/colecao-circo-magico</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://bluekids.netlify.com/camisa-social</loc>
+      <loc>https://bluekids.netlify.com/colecao-batinha-menino</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://bluekids.netlify.com/camisa-social-manga-curta</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.netlify.com/camisa-social-manga-longa</loc>
+      <loc>https://bluekids.netlify.com/colecao-ursinhos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -806,12 +806,6 @@
     </url>
   
     <url>
-      <loc>https://bluekids.netlify.com/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://bluekids.netlify.com/errors/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -821,6 +815,12 @@
       <loc>https://bluekids.netlify.com/errors/500</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.netlify.com/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
