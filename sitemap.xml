@@ -668,12 +668,6 @@
     </url>
   
     <url>
-      <loc>https://bluekids.com.br/blue-kids</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://bluekids.com.br/estampas-digital</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -734,6 +728,12 @@
     </url>
   
     <url>
+      <loc>https://bluekids.com.br/blue-kids</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://bluekids.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -752,13 +752,13 @@
     </url>
   
     <url>
-      <loc>https://bluekids.com.br/pages/sobre-nos</loc>
+      <loc>https://bluekids.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://bluekids.com.br/pages/privacidade</loc>
+      <loc>https://bluekids.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
