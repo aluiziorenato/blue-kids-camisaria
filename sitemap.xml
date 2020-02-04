@@ -668,12 +668,6 @@
     </url>
   
     <url>
-      <loc>https://bluekids.com.br/blue-kids</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://bluekids.com.br/estampas-digital</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -729,6 +723,12 @@
   
     <url>
       <loc>https://bluekids.com.br/colecao-ursinhos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.com.br/blue-kids</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
