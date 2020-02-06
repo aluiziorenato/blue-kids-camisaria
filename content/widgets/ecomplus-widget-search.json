@@ -1,5 +1,6 @@
 {
   "pkg": "@ecomplus/widget-search",
   "active": true,
-  "desktopOnly": false
+  "desktopOnly": false,
+  "options": {}
 }

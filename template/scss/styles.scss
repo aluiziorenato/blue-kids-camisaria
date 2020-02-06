@@ -1,8 +1,14 @@
 
+  @import "@ecomplus/storefront-template/template/scss/themes/litera/variables";
+  @import "bootswatch/dist/litera/variables";
+
 
 @import "variables";
 @import "@ecomplus/storefront-twbs/scss/styles";
 
+
+  @import "bootswatch/dist/litera/bootswatch";
+  @import "@ecomplus/storefront-template/template/scss/themes/litera/custom";
 
 
 @import "main";
