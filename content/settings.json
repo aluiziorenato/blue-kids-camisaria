@@ -4,7 +4,7 @@
   "theme": {
     "bootswatch": "litera"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#f5a623",
   "logo": "/img/uploads/logo.png",
   "name": "Camisaria Blue Kids",
   "short_name": "Blue-Kids",
@@ -13,10 +13,9 @@
   "mini_logo": "/img/uploads/faviconlogo.png",
   "favicon": "/img/uploads/faviconlogo.png",
   "country_code": "BR",
-  "secondary_color": "#ffb52c",
+  "secondary_color": "#ef9c00",
   "icon": "/img/uploads/faviconlogo.png",
   "store_id": 1058,
   "description": "Especializada em Roupas de Festa para Bebês Meninos",
-  "large_icon": "/img/uploads/logobluekidsminimum.jpg",
-  "domain": "bluekids.com.br"
+  "large_icon": "/img/uploads/logobluekidsminimum.jpg"
 }
