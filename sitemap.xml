@@ -674,6 +674,12 @@
     </url>
   
     <url>
+      <loc>https://bluekids.com.br/blue-kids</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://bluekids.com.br/estampas-digital</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -734,12 +740,6 @@
     </url>
   
     <url>
-      <loc>https://bluekids.com.br/blue-kids</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://bluekids.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -788,13 +788,13 @@
     </url>
   
     <url>
-      <loc>https://bluekids.com.br/posts/nossa-historia-2020-01-22</loc>
+      <loc>https://bluekids.com.br/posts/vamos-encantar-voce-2020-02-09</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://bluekids.com.br/posts/vamos-encantar-voce-2020-02-09</loc>
+      <loc>https://bluekids.com.br/posts/nossa-historia-2020-01-22</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
