@@ -8,6 +8,10 @@
   border-color: var(--secondary) !important;
 }
 
+#heading {
+font-size: 1rem
+}
+
 // Responsive
 @media (max-width: 767px) {
   #product-block .ec-product__buy > button.btn-lg {
