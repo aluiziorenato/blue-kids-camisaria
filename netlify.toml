@@ -2,3 +2,7 @@
   from = "/scripts/*"
   to = "/index"
   status = 301
+  
+  from = "/grid/10007"
+  to = "/conjuntos"
+  status = 301
