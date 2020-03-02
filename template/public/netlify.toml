@@ -39,3 +39,8 @@
   to = "https://www.bluekids.com.br/roupa-de-festa-camisa-social-dinossauros-com-gravata-e-suspensorio"
   status = 301
   
+[[redirects]]
+  from = "/https://www.bluekids.com.br/10003"
+  to = "/index"
+  status = 301
+  
