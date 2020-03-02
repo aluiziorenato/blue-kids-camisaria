@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/grid/*"
+  from = "/grid/10007"
   to = "/conjuntos"
   status = 301
   force = true
