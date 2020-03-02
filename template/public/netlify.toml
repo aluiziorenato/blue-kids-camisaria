@@ -25,6 +25,6 @@
   status = 301
 
 [[redirects]]
-  from = "/https://www.bluekids.com.br/contate-nos
+  from = "/https://www.bluekids.com.br/contate-nos"
   to = "/index"
   status = 301
