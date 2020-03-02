@@ -28,3 +28,14 @@
   from = "/https://www.bluekids.com.br/contate-nos"
   to = "/index"
   status = 301
+
+[[redirects]]
+  from = "/https://www.bluekids.com.br/contate-nos"
+  to = "/index"
+  status = 301
+
+[[redirects]]
+  from = "/https://www.bluekids.com.br/conjunto-tematico-manga-curta-dinossauros-com-gravata-e-suspensorio"
+  to = "https://www.bluekids.com.br/roupa-de-festa-camisa-social-dinossauros-com-gravata-e-suspensorio"
+  status = 301
+  
