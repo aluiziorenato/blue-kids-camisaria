@@ -4,6 +4,6 @@
   status = 301
   
 [[redirects]]
-  from = "/grid/10007"
+  from = "/grid/10007*"
   to = "/conjuntos"
   status = 301
