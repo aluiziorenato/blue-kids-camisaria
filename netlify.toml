@@ -1,7 +1,8 @@
 [[redirects]]
-  from = "/grid/10007"
+  from = "/grid/*"
   to = "/conjuntos"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/scripts/*"
