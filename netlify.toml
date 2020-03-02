@@ -1,9 +1,10 @@
 [[redirects]]
-  from = "/scripts/*"
-  to = "/index"
-  status = 301
-  
-[[redirects]]
   from = "/grid/10007*"
   to = "/conjuntos"
+  status = 301
+  
+  
+[[redirects]]
+  from = "/scripts/*"
+  to = "/index"
   status = 301
