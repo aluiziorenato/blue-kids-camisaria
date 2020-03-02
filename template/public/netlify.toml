@@ -8,3 +8,23 @@
   from = "/scripts/*"
   to = "/index"
   status = 301
+
+[[redirects]]
+  from = "/grid/*"
+  to = "/index"
+  status = 301
+  
+[[redirects]]
+  from = "/content/*"
+  to = "/index"
+  status = 301
+  
+[[redirects]]
+  from = "/marca/100*"
+  to = "/index"
+  status = 301
+
+[[redirects]]
+  from = "/https://www.bluekids.com.br/contate-nos
+  to = "/index"
+  status = 301
