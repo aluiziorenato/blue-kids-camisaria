@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/scripts/*"
+  to = "/index"
+  status = 301
