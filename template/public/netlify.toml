@@ -93,3 +93,8 @@
   from = "/14-bermudas"
   to = "/conjunto-com-bermuda"
   status = 301
+
+[[redirects]]
+  from = "/12-conjuntos"
+  to = "/conjuntos"
+  status = 301
