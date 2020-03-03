@@ -159,3 +159,7 @@
   to = "/camisa-social"
   status = 301
   
+[[redirects]]
+  from = "/camisa-social"
+  to = "/camisa-social"
+  status = 301
