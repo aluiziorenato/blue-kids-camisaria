@@ -98,3 +98,8 @@
   from = "/12-conjuntos"
   to = "/conjuntos"
   status = 301
+  
+[[redirects]]
+  from = "/conjunto-camisa-social-manga-curta-fundo-do-mar-com-bermuda"
+  to = "/roupa-festa-infantil-camisa-curta-fundo-do-mar-com-gravata-e-suspensorio"
+  status = 301
