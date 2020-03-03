@@ -31,7 +31,7 @@
 
 [[redirects]]
   from = "/conjunto-tematico-manga-curta-dinossauros-com-gravata-e-suspensorio"
-  to = "/roupa-de-festa-camisa-social-dinossauros-com-gravata-e-suspensorio"
+  to = "/conjunto-com-bermuda"
   status = 301
   
 [[redirects]]
@@ -46,6 +46,10 @@
   
 [[redirects]]
   from = "/conjunto-com-bermuda/58-conjunto-infantil-camisa-manga-curta-dinossauros-e-bermuda-azul.html"
-  to = "/roupa-de-festa-camisa-social-dinossauros-com-gravata-e-suspensorio"
+  to = "/conjunto-com-bermuda"
   status = 301
-  
+ 
+[[redirects]]
+from = "/conjunto-com-bermuda/68-conjunto-camisa-social-menino-manga-curta-circo-com-bermuda.html"
+to = "/conjunto-com-bermuda"
+status = 301
