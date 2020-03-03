@@ -128,3 +128,8 @@
   from = "/camisas/31-camisa-social-menino-blue-kids-circo-azul.html"
   to = "/camisa-social-infantil-tematica-manga-curta-circo-azul"
   status = 301
+  
+  [[redirects]]
+  from = "/busca?=*"
+  to = "/index"
+  status = 301
