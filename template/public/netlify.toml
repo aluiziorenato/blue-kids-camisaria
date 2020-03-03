@@ -173,3 +173,23 @@
   from = "/home/17-camisa-social-infantil-manga-curta-balao-vermelho.html"
   to = "/roupa-festa-infantil-manga-curta-baloes-vermelhos-com-bermuda"
   status = 301
+  
+[[redirects]]
+  from = "/conjunto-camisa-astronauta-com-calca-suspensorio-e-gravata?mprice=159"
+  to = "/conjunto-camisa-astronauta-com-calca-suspensorio-e-gravata"
+  status = 301
+  
+[[redirects]]
+  from = "/conjunto-camisa-astronauta-com-calca-suspensorio-e-gravata?mprice=145"
+  to = "/conjunto-camisa-astronauta-com-calca-suspensorio-e-gravata"
+  status = 301
+
+[[redirects]]
+  from = "/roupa-festa-infantil-astronauta-com-bermuda?mprice=135"
+  to = "/roupa-festa-infantil-astronauta-com-bermuda"
+  status = 301
+  
+ [[redirects]]
+  from = "/roupa-festa-infantil-astronauta-com-bermuda?mprice=120"
+  to = "/roupa-festa-infantil-astronauta-com-bermuda"
+  status = 301
