@@ -139,3 +139,7 @@
   to = "/index"
   status = 301
 
+ [[redirects]]
+  from = "/conjunto-camisa-social-infantil-manga-curta-safari-e-bermuda"
+  to = "/conjunto-tematico-safari-manga-curta-com-gravata-e-suspensorio"
+  status = 301
