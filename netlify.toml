@@ -148,3 +148,8 @@
   from = "/conjunto-com-bermuda/145-conjunto-camisa-social-infantil-manga-curta-jeans-com-bermuda-branca.html"
   to = "/roupa-de-festa-pequeno-principe-com-gravata-e-suspensorio"
   status = 301
+
+[[redirects]]
+  from = "/conjunto-com-bermuda/71-conjunto-camisa-social-infantil-circo-bermuda-vermelha.html"
+  to = "/camisa-social-infantil-tematica-manga-curta-circo-azul"
+  status = 301
