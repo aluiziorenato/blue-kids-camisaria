@@ -133,3 +133,9 @@
   from = "/busca?=*"
   to = "/index"
   status = 301
+  
+  [[redirects]]
+  from = "/index.php?*"
+  to = "/index"
+  status = 301
+
