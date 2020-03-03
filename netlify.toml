@@ -163,3 +163,8 @@
   from = "/camisa-social"
   to = "/camisa-social"
   status = 301
+
+[[redirects]]
+  from = "/161-conjunto-com-bermuda"
+  to = "/conjunto-com-bermuda"
+  status = 301
