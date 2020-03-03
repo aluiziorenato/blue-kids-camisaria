@@ -118,3 +118,8 @@
   from = "/15-bodies"
   to = "/body"
   status = 301
+  
+      [[redirects]]
+  from = "/conjunto-com-bermuda/62-conjunto-camisa-social-infantil-manga-curta-marinheiro-com-bermuda-vermelho.html"
+  to = "/conjunto-roupa-festa-infantil-bebe-menino-marinheiro"
+  status = 301
