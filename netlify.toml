@@ -113,3 +113,8 @@
   from = "/158-body"
   to = "/body"
   status = 301
+  
+    [[redirects]]
+  from = "/15-bodies"
+  to = "/body"
+  status = 301
