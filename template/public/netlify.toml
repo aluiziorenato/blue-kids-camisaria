@@ -68,4 +68,14 @@
   from = "/conjunto-com-bermuda/8-conjunto-camisa-social-infantil-safari-bermuda-verde-e-cinto.html"
   to = "/conjunto-com-bermuda"
   status = 301
+
+[[redirects]]
+  from = "/conjunto-com-bermuda/52-conjunto-camisa-social-infantil-safari-com-bermuda.html?search"
+  to = "/conjunto-com-bermuda"
+  status = 301
+  
+  [[redirects]]
+  from = "/conjunto-com-bermuda/49-conjunto-camisa-social-infantil-manga-curta-baloes-com-bermuda.html"
+  to = "/conjunto-com-bermuda"
+  status = 301
   
