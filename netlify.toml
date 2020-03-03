@@ -59,3 +59,13 @@
   to = "/conjunto-com-bermuda"
   status = 301
   
+[[redirects]]
+  from = "/home/86-camisa-social-infantil-manga-curta-balao-azul.html"
+  to = "/conjunto-com-bermuda"
+  status = 301
+  
+[[redirects]]
+  from = "/conjunto-com-bermuda/8-conjunto-camisa-social-infantil-safari-bermuda-verde-e-cinto.html"
+  to = "/conjunto-com-bermuda"
+  status = 301
+  
