@@ -35,7 +35,7 @@
   status = 301
   
 [[redirects]]
-  from = "https://www.bluekids.com.br/10003"
+  from = "/10003"
   to = "/index"
   status = 301
   
@@ -44,7 +44,7 @@
   to = "/conjunto-com-calca"
   status = 301
   
-  [[redirects]]
+[[redirects]]
   from = "/conjunto-com-bermuda/58-conjunto-infantil-camisa-manga-curta-dinossauros-e-bermuda-azul.html"
   to = "/roupa-de-festa-camisa-social-dinossauros-com-gravata-e-suspensorio"
   status = 301
