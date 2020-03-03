@@ -109,17 +109,17 @@
   to = "/conjunto-com-calca"
   status = 301
   
-  [[redirects]]
+[[redirects]]
   from = "/158-body"
   to = "/body"
   status = 301
   
-    [[redirects]]
+[[redirects]]
   from = "/15-bodies"
   to = "/body"
   status = 301
   
-      [[redirects]]
+[[redirects]]
   from = "/conjunto-com-bermuda/62-conjunto-camisa-social-infantil-manga-curta-marinheiro-com-bermuda-vermelho.html"
   to = "/conjunto-roupa-festa-infantil-bebe-menino-marinheiro"
   status = 301
