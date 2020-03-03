@@ -123,3 +123,8 @@
   from = "/conjunto-com-bermuda/62-conjunto-camisa-social-infantil-manga-curta-marinheiro-com-bermuda-vermelho.html"
   to = "/conjunto-roupa-festa-infantil-bebe-menino-marinheiro"
   status = 301
+  
+[[redirects]]
+  from = "/camisas/31-camisa-social-menino-blue-kids-circo-azul.html"
+  to = "/camisa-social-infantil-tematica-manga-curta-circo-azul"
+  status = 301
