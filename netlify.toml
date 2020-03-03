@@ -153,3 +153,9 @@
   from = "/conjunto-com-bermuda/71-conjunto-camisa-social-infantil-circo-bermuda-vermelha.html"
   to = "/camisa-social-infantil-tematica-manga-curta-circo-azul"
   status = 301
+
+[[redirects]]
+  from = "/3-camisas"
+  to = "/camisa-social"
+  status = 301
+  
