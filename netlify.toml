@@ -168,3 +168,8 @@
   from = "/161-conjunto-com-bermuda"
   to = "/conjunto-com-bermuda"
   status = 301
+
+[[redirects]]
+  from = "/home/17-camisa-social-infantil-manga-curta-balao-vermelho.html"
+  to = "/roupa-festa-infantil-manga-curta-baloes-vermelhos-com-bermuda"
+  status = 301
