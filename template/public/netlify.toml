@@ -74,8 +74,22 @@
   to = "/conjunto-com-bermuda"
   status = 301
   
-  [[redirects]]
+[[redirects]]
   from = "/conjunto-com-bermuda/49-conjunto-camisa-social-infantil-manga-curta-baloes-com-bermuda.html"
   to = "/conjunto-com-bermuda"
   status = 301
   
+[[redirects]]
+  from = "/conjunto-camisa-social-infantil-safari-e-bermuda-branca"
+  to = "/conjunto-com-bermuda"
+  status = 301
+  
+[[redirects]]
+  from = "/157-camisas"
+  to = "/conjunto-com-bermuda"
+  status = 301
+  
+[[redirects]]
+  from = "/14-bermudas"
+  to = "/conjunto-com-bermuda"
+  status = 301
