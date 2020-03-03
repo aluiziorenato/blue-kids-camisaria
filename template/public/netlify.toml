@@ -108,3 +108,8 @@
   from = "/conjunto-com-calca/146-conjunto-camisa-social-infantil-manga-curta-jeans-com-calca-branca.html"
   to = "/conjunto-com-calca"
   status = 301
+  
+  [[redirects]]
+  from = "/158-body"
+  to = "/body"
+  status = 301
