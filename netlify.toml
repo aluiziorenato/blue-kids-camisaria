@@ -50,6 +50,12 @@
   status = 301
  
 [[redirects]]
-from = "/conjunto-com-bermuda/68-conjunto-camisa-social-menino-manga-curta-circo-com-bermuda.html"
-to = "/conjunto-com-bermuda"
-status = 301
+  from = "/conjunto-com-bermuda/68-conjunto-camisa-social-menino-manga-curta-circo-com-bermuda.html"
+  to = "/conjunto-com-bermuda"
+  status = 301
+  
+[[redirects]]
+  from = "/home/101-conjunto-camisa-manga-curta-branca-com-bermuda-e-cinto.html"
+  to = "/conjunto-com-bermuda"
+  status = 301
+  
