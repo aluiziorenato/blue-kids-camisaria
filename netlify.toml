@@ -129,7 +129,7 @@
   to = "/camisa-social-infantil-tematica-manga-curta-circo-azul"
   status = 301
   
-  [[redirects]]
+[[redirects]]
   from = "/busca?=*"
   to = "/index"
   status = 301
