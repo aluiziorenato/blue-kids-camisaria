@@ -129,16 +129,6 @@
   to = "/camisa-social-infantil-tematica-manga-curta-circo-azul"
   status = 301
   
-[[redirects]]
-  from = "/busca?=*"
-  to = "/index"
-  status = 301
-  
-  [[redirects]]
-  from = "/index.php?*"
-  to = "/index"
-  status = 301
-
  [[redirects]]
   from = "/conjunto-camisa-social-infantil-manga-curta-safari-e-bermuda"
   to = "/conjunto-tematico-safari-manga-curta-com-gravata-e-suspensorio"
@@ -202,4 +192,9 @@
  [[redirects]]
   from = "/conjunto-camisa-astronauta-com-bermuda-suspensorio-e-gravata?mprice=125.9"
   to = "/roupa-festa-infantil-astronauta-com-bermuda"
+  status = 301
+  
+ [[redirects]]
+  from = "/162-conjunto-com-calca"
+  to = "/conjunto-com-calca"
   status = 301
