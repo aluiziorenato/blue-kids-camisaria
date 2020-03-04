@@ -189,7 +189,17 @@
   to = "/roupa-festa-infantil-astronauta-com-bermuda"
   status = 301
   
- [[redirects]]
+[[redirects]]
   from = "/roupa-festa-infantil-astronauta-com-bermuda?mprice=120"
+  to = "/roupa-festa-infantil-astronauta-com-bermuda"
+  status = 301
+  
+[[redirects]]
+  from = "/conjunto-camisa-astronauta-com-bermuda-suspensorio-e-gravata?mprice=145"
+  to = "/roupa-festa-infantil-astronauta-com-bermuda"
+  status = 301
+  
+ [[redirects]]
+  from = "/conjunto-camisa-astronauta-com-bermuda-suspensorio-e-gravata?mprice=125.9"
   to = "/roupa-festa-infantil-astronauta-com-bermuda"
   status = 301
