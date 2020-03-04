@@ -68,61 +68,7 @@
     </url>
   
     <url>
-      <loc>https://bluekids.com.br/estampas-digital</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.com.br/nossas-novidades</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.com.br/mais-vendidos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.com.br/colecao-bermudas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.com.br/colecao-fundo-do-mar</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.com.br/colecao-safari</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.com.br/colecao-baloes-e-aventura</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.com.br/colecao-circo-magico</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.com.br/colecao-batinha-menino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://bluekids.com.br/colecao-ursinhos</loc>
+      <loc>https://bluekids.com.br/blue-kids</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -728,7 +674,61 @@
     </url>
   
     <url>
-      <loc>https://bluekids.com.br/blue-kids</loc>
+      <loc>https://bluekids.com.br/estampas-digital</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.com.br/nossas-novidades</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.com.br/mais-vendidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.com.br/colecao-bermudas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.com.br/colecao-fundo-do-mar</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.com.br/colecao-safari</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.com.br/colecao-baloes-e-aventura</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.com.br/colecao-circo-magico</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.com.br/colecao-batinha-menino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.com.br/colecao-ursinhos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -740,25 +740,25 @@
     </url>
   
     <url>
-      <loc>https://bluekids.com.br/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://bluekids.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://bluekids.com.br/pages/sobre-nos</loc>
+      <loc>https://bluekids.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://bluekids.com.br/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
