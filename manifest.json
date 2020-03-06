@@ -26,12 +26,12 @@
       "type": "image/png"
     }
   ],
-  "name": "Camisaria Blue Kids",
-  "short_name": "Blue-Kids",
+  "name": "Blue Kids",
+  "short_name": "Blue Kids",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "Blue Kids - moda infantil masculina de criança para festa aniversário, batizado ou smash the cake.",
+  "description": "Blue Kids - Roupa Social Infantil",
   "background_color": "#96a8fd",
   "theme_color": "#0954c3"
 }
