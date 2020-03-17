@@ -19,7 +19,7 @@
       }
     ]
   },
-  "pitbar": true,
+  "pitbar": false,
   "showcase": [
     {
       "collection": "5e31f8c962887026009eaee0"
