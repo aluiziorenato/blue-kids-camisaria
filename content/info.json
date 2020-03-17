@@ -10,10 +10,10 @@
   },
   "exchange": {
     "text": "Não gostou? A primeira troca é gratuita",
-    "show": true
+    "show": false
   },
   "promo": {
     "text": "Diferentes promoções ao longo do ano!",
-    "show": true
+    "show": false
   }
 }
