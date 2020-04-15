@@ -890,12 +890,6 @@
     </url>
   
     <url>
-      <loc>https://bluekids.com.br/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://bluekids.com.br/errors/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -905,6 +899,12 @@
       <loc>https://bluekids.com.br/errors/500</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://bluekids.com.br/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
